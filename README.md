@@ -5,7 +5,6 @@ The project consists of showing in a map, the population in France for a specifi
 
 The Map contains:
 - Implements zoom.
-- X / Y axis.
 - Scale of colors for the regions according to the population.
 - When you move the mouse over a region, it shows a card with the name of the region and its population.
 - When you move the mouse over a region, it highlights the region where we are.
