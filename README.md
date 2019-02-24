@@ -13,7 +13,7 @@ To run the project it is necessary to have Node.js installed
 link: https://nodejs.org/es/
 Open a CMD in the root path of the project and execute the following commands:
 
-npm start
+npm install
 
 npm run build:prod
 
